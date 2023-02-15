@@ -18,5 +18,8 @@
   "homepage": "https://github.com/francis450/Hello-Microverse-Project#readme",
   "dependencies": {
     "bootstrap": "^5.2.3"
+  },
+  "devDependencies": {
+    "hint": "^7.1.3"
   }
 }
